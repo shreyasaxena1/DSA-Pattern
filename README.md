@@ -1,3 +1,4 @@
+https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3 <br>
 # Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews
 
 These are my notes in <b>Javascript</b> from a [course](https://www.educative.io/courses/grokking-the-coding-interview) that categorizes coding interview problems into a set of <b>16 patterns</b>. 
